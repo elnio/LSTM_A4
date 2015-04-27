@@ -1,3 +1,3 @@
 #!/bin/bash
 module load torch-deps/7
-th charModelPreds.lua
+/scratch/es3431/a4/torch/install/bin/luajit charModelPreds.lua
